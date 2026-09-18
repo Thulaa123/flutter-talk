@@ -1,4 +1,4 @@
-# Genkit Dart in 5 minutes — the smallest possible project
+# Genkit Dart in 5 minutes
 
 A step-by-step guide to a Genkit backend with **one flow, one Gemini call, served over HTTP**. The finished project lives in [`genkit-hello/`](genkit-hello/) (one file, ~30 lines) and was run exactly as written below.
 
